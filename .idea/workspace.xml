@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff51e8ae-2e9a-422e-a146-d59d1b4dc0bd" name="Changes" comment="Tests API" />
+    <list default="true" id="ff51e8ae-2e9a-422e-a146-d59d1b4dc0bd" name="Changes" comment="Tests API">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Entities/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entities/Booking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/createBookingRequestSchema.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/createBookingRequestSchema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/createBookingResponseSchema.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/createBookingResponseSchema.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +27,30 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "assignee": "CeehSoares",
+      "author": "CeehSoares"
+    },
+    {
+      "state": "MERGED",
+      "author": "CeehSoares"
+    }
+  ],
+  "lastFilter": {
+    "state": "MERGED",
+    "author": "CeehSoares"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="fc055a9a-c21c-4c8a-b39e-dd447d9f6d67" />
+        <option name="url" value="git@github.com:CeehSoares/API-automation-tests-rest-assured.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -174,7 +203,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674499096809</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Tests API">
+      <created>1674499166458</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674499166458</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Tests API">
+      <created>1674499477653</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674499477653</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

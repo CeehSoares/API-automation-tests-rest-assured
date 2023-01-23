@@ -1,6 +1,5 @@
 package Entities;
 
-
 public class Booking {
     private String lastname;
     private String firstname;
