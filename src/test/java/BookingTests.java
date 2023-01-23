@@ -112,5 +112,4 @@ public class BookingTests {
         Assertions.assertNotNull(response);
         Assertions.assertEquals(404, response.statusCode());
     }
-
 }
