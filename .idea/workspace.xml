@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff51e8ae-2e9a-422e-a146-d59d1b4dc0bd" name="Changes" comment="First commit">
-      <change beforePath="$PROJECT_DIR$/src/test/java/BookingTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BookingTests.java" afterDir="false" />
+    <list default="true" id="ff51e8ae-2e9a-422e-a146-d59d1b4dc0bd" name="Changes" comment="Tests API">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +141,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674437193399</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tests API">
+      <created>1674437373903</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674437373903</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Tests API">
+      <created>1674437557132</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674437557132</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,7 +163,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -157,6 +177,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Tests API" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tests API" />
   </component>
 </project>
