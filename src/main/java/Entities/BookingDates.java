@@ -26,5 +26,4 @@ public class BookingDates {
         this.checkout = checkout;
     }
 
-
 }
