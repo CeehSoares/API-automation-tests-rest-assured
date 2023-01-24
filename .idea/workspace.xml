@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff51e8ae-2e9a-422e-a146-d59d1b4dc0bd" name="Changes" comment="Endpoint classification and readme formatting" />
+    <list default="true" id="ff51e8ae-2e9a-422e-a146-d59d1b4dc0bd" name="Changes" comment="Adding postman files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +75,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Conceição Sobreiro\Desktop\ProjetoAPI\API-automation-tests-rest-assured\Postman" />
       <recent name="C:\Users\Conceição Sobreiro\Desktop\ProjetoAPI\API-automation-tests-rest-assured\Allure" />
     </key>
   </component>
@@ -259,7 +260,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674520012676</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Endpoint classification and readme formatting">
+      <created>1674520142153</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1674520142153</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Adding postman files">
+      <created>1674520234689</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1674520234689</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,6 +300,7 @@
     <MESSAGE value="Creating the readme" />
     <MESSAGE value="Creating folders and adding files" />
     <MESSAGE value="Endpoint classification and readme formatting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Endpoint classification and readme formatting" />
+    <MESSAGE value="Adding postman files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding postman files" />
   </component>
 </project>
