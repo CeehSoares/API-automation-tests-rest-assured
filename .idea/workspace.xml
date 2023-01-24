@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff51e8ae-2e9a-422e-a146-d59d1b4dc0bd" name="Changes" comment="Creating the readme" />
+    <list default="true" id="ff51e8ae-2e9a-422e-a146-d59d1b4dc0bd" name="Changes" comment="Creating folders and adding files">
+      <change afterPath="$PROJECT_DIR$/Postman/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +77,11 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Conceição Sobreiro\Desktop\ProjetoAPI\API-automation-tests-rest-assured\Allure" />
+    </key>
+  </component>
   <component name="RunManager" selected="JUnit.BookingTests">
     <configuration name="BookingTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API-automation-tests-rest-assured" />
@@ -226,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674513386778</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Creating folders and adding files">
+      <created>1674513661084</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674513661084</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,6 +266,7 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Tests API" />
     <MESSAGE value="Creating the readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating the readme" />
+    <MESSAGE value="Creating folders and adding files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating folders and adding files" />
   </component>
 </project>
