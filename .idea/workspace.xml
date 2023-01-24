@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff51e8ae-2e9a-422e-a146-d59d1b4dc0bd" name="Changes" comment="Final files.">
+    <list default="true" id="ff51e8ae-2e9a-422e-a146-d59d1b4dc0bd" name="Changes" comment="New tests.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/BookingTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BookingTests.java" afterDir="false" />
     </list>
@@ -82,23 +82,12 @@
       <recent name="C:\Users\Conceição Sobreiro\Desktop\ProjetoAPI\API-automation-tests-rest-assured\Allure" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BookingTests.getAllBookingsById_returnOk">
-    <configuration name="BookingTests.BookingsById_returnOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BookingTests">
+    <configuration name="BookingTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API-automation-tests-rest-assured" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="BookingTests" />
-      <option name="METHOD_NAME" value="BookingsById_returnOk" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BookingTests.CreateBooking_ValidData_returnOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="API-automation-tests-rest-assured" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BookingTests" />
-      <option name="METHOD_NAME" value="CreateBooking_ValidData_returnOk" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -133,13 +122,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BookingTests.updateBooking_ValidData_returnOK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API-automation-tests-rest-assured" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookingTests" />
+      <option name="METHOD_NAME" value="updateBooking_ValidData_returnOK" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BookingTests" />
+        <item itemvalue="JUnit.BookingTests.updateBooking_ValidData_returnOK" />
         <item itemvalue="JUnit.BookingTests.getAllBookingsById_returnOk" />
         <item itemvalue="JUnit.BookingTests.createToken_returnOK" />
         <item itemvalue="JUnit.BookingTests.getAllBookingsByUserFirstName_returnOk" />
-        <item itemvalue="JUnit.BookingTests.CreateBooking_ValidData_returnOk" />
-        <item itemvalue="JUnit.BookingTests.BookingsById_returnOk" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674577676879</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="New tests.">
+      <created>1674588638575</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1674588638575</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -342,6 +348,7 @@
     <MESSAGE value="Adding postman files" />
     <MESSAGE value="Final files" />
     <MESSAGE value="Final files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Final files." />
+    <MESSAGE value="New tests." />
+    <option name="LAST_COMMIT_MESSAGE" value="New tests." />
   </component>
 </project>

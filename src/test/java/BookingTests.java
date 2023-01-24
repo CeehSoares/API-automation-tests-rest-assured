@@ -23,8 +23,6 @@ public class BookingTests {
     private static RequestSpecification request;
     private static BookingDates bookingDates;
 
-
-
     //Método Setup - Ocorre antes de tudo
 
     @BeforeAll
@@ -115,7 +113,6 @@ public class BookingTests {
                 .assertThat()
                 .statusCode(200)
                 .contentType(ContentType.JSON).and().time(lessThan(2006L));
-
     }
 
     // Test de Bad Request
@@ -139,7 +136,7 @@ public class BookingTests {
                 .header("Authorization", "Basic YWRtaW46cGFzc3dvcmQxMjM=")
                 .when()
                 .body(booking)
-                .put("/booking/696")
+                .put("/booking/580")
                 .then()
                 .assertThat().statusCode(200)
                 .and()
@@ -152,7 +149,7 @@ public class BookingTests {
                 .contentType(ContentType.JSON)
                 .header("Authorization", "Basic YWRtaW46cGFzc3dvcmQxMjM=")
                 .when()
-                .delete("/booking/505")
+                .delete("/booking/1240")
                 .then()
                 .assertThat().statusCode(201).and()
                 .statusLine(containsString("Created"))
