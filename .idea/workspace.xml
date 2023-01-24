@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff51e8ae-2e9a-422e-a146-d59d1b4dc0bd" name="Changes" comment="Creating folders and adding files">
-      <change afterPath="$PROJECT_DIR$/Postman/test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="ff51e8ae-2e9a-422e-a146-d59d1b4dc0bd" name="Changes" comment="Endpoint classification and readme formatting" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -242,7 +238,28 @@
       <option name="project" value="LOCAL" />
       <updated>1674513661084</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Endpoint classification and readme formatting">
+      <created>1674519888596</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674519888596</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Endpoint classification and readme formatting">
+      <created>1674519972355</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1674519972355</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Endpoint classification and readme formatting">
+      <created>1674520012676</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1674520012676</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,6 +284,7 @@
     <MESSAGE value="Tests API" />
     <MESSAGE value="Creating the readme" />
     <MESSAGE value="Creating folders and adding files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating folders and adding files" />
+    <MESSAGE value="Endpoint classification and readme formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Endpoint classification and readme formatting" />
   </component>
 </project>
