@@ -1,0 +1,266 @@
+{
+	"id": "fa5a7e1b-9e93-46f7-8cf4-5c136a756fd0",
+	"name": "restful-booker API",
+	"timestamp": "2023-01-23T00:17:18.527Z",
+	"collection_id": "25364019-301e852c-13e5-4485-9099-a4d11b18e3b6",
+	"folder_id": 0,
+	"environment_id": "25364019-de02f246-0b41-4377-9b78-b0410f40db6b",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "d9f3b982-67d9-403a-99db-70eaef839b50",
+			"name": "Auth - CreteToken",
+			"time": 134,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				544,
+				137,
+				137,
+				132,
+				141,
+				134
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "7b892aef-732e-4cd2-8c50-804fe4233d61",
+			"name": "Booking - GetBookinglds",
+			"time": 171,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				419,
+				174,
+				168,
+				290,
+				173,
+				171
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "a057dd70-a416-4954-9edc-03328e905fba",
+			"name": "Booking - GetBooking",
+			"time": 145,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				136,
+				137,
+				136,
+				137,
+				136,
+				145
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "2ae6da7c-2e1a-49f6-9ba8-8b93156d1d04",
+			"name": "Booking - CreateBooking",
+			"time": 138,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				142,
+				140,
+				136,
+				133,
+				133,
+				138
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "3c411389-281b-43aa-9aee-042cb81c40dd",
+			"name": "Booking - UpdateBooking",
+			"time": 136,
+			"responseCode": {
+				"code": 403,
+				"name": "Forbidden"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				132,
+				139,
+				141,
+				135,
+				132,
+				136
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "e88e7b1d-511d-4096-9ab1-5d0f5454526b",
+			"name": "Booking - PartialUpdateBooking",
+			"time": 133,
+			"responseCode": {
+				"code": 403,
+				"name": "Forbidden"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				132,
+				142,
+				146,
+				134,
+				145,
+				133
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "1a6ae5da-a9d4-4f26-b752-cc9686fe9d0a",
+			"name": "Booking - DeleteBooking",
+			"time": 132,
+			"responseCode": {
+				"code": 403,
+				"name": "Forbidden"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				131,
+				130,
+				143,
+				133,
+				136,
+				132
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "daa7776e-3a4b-4637-963b-c66149968bf2",
+			"name": "Ping -HealthCheck",
+			"time": 135,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				136,
+				132,
+				136,
+				134,
+				147,
+				135
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		}
+	],
+	"count": 6,
+	"totalTime": 7541,
+	"collection": {
+		"requests": [
+			{
+				"id": "d9f3b982-67d9-403a-99db-70eaef839b50",
+				"method": "POST"
+			},
+			{
+				"id": "7b892aef-732e-4cd2-8c50-804fe4233d61",
+				"method": "GET"
+			},
+			{
+				"id": "a057dd70-a416-4954-9edc-03328e905fba",
+				"method": "GET"
+			},
+			{
+				"id": "2ae6da7c-2e1a-49f6-9ba8-8b93156d1d04",
+				"method": "POST"
+			},
+			{
+				"id": "3c411389-281b-43aa-9aee-042cb81c40dd",
+				"method": "PUT"
+			},
+			{
+				"id": "e88e7b1d-511d-4096-9ab1-5d0f5454526b",
+				"method": "PATCH"
+			},
+			{
+				"id": "1a6ae5da-a9d4-4f26-b752-cc9686fe9d0a",
+				"method": "DELETE"
+			},
+			{
+				"id": "daa7776e-3a4b-4637-963b-c66149968bf2",
+				"method": "GET"
+			}
+		]
+	}
+}
