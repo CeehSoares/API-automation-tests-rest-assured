@@ -15,7 +15,6 @@ public class Booking {
         this.depositpaid = depositPaid;
         this.bookingdates = bookingDates;
         this.additionalneeds = additionalNeeds;
-
     }
 
     public float getTotalprice() {
