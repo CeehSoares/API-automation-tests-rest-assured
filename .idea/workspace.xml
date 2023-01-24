@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff51e8ae-2e9a-422e-a146-d59d1b4dc0bd" name="Changes" comment="New tests." />
+    <list default="true" id="ff51e8ae-2e9a-422e-a146-d59d1b4dc0bd" name="Changes" comment="New tests.">
+      <change beforePath="$PROJECT_DIR$/Allure/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllureReport.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/Allure/AllureReport.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllureReportGraphs.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/Allure/AllureReportGraphs.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllureReportSuites.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/Allure/AllureReportSuites.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllureReportTimeline.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/Allure/AllureReportTimeline.PNG" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,8 +81,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Conceição Sobreiro\Desktop\ProjetoAPI\API-automation-tests-rest-assured\Postman" />
       <recent name="C:\Users\Conceição Sobreiro\Desktop\ProjetoAPI\API-automation-tests-rest-assured\Allure" />
+      <recent name="C:\Users\Conceição Sobreiro\Desktop\ProjetoAPI\API-automation-tests-rest-assured\Postman" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.BookingTests">
@@ -323,7 +329,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674589832937</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="New tests.">
+      <created>1674589903042</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1674589903042</updated>
+    </task>
+    <task id="LOCAL-00027" summary="New tests.">
+      <created>1674590091991</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1674590091992</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
